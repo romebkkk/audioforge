@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.wav
+*.mp3
+*.flac
+*.m4a
+output/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
